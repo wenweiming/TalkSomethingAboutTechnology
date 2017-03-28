@@ -5,4 +5,4 @@ As we all know, we can find lots of file on internet, and should we still make s
 
 1. create a picture folder in your workplace.
 
-$ mkdir picture $
+	$ mkdir picture $
